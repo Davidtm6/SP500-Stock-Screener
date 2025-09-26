@@ -1,5 +1,4 @@
 # Stock-Screener
-# Stock Portfolio Manager
 
 A full-stack web application for managing and screening stock portfolios with real-time financial data integration.
 
@@ -16,8 +15,7 @@ A full-stack web application for managing and screening stock portfolios with re
 ### Backend
 - **FastAPI** - Modern Python web framework with automatic API documentation
 - **SQLAlchemy** - Python ORM for database operations
-- **yahooquery** - Yahoo Finance API integration for real-time stock data
-- **Pydantic** - Data validation and serialization
+- **yahooquery** - Yahoo Finance API integration 
 
 ### Frontend
 - **Jinja2** - Server-side templating
@@ -25,7 +23,7 @@ A full-stack web application for managing and screening stock portfolios with re
 - **Semantic UI** - CSS framework for responsive design
 
 ### Database
-- **SQLite/PostgreSQL** - Configurable database backend
+- **SQLite** 
 
 ## Key Functionality
 
