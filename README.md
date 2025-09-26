@@ -13,14 +13,14 @@ A full-stack web application for managing and screening stock portfolios with re
 ## Tech Stack
 
 ### Backend
-- **FastAPI** - Modern Python web framework with automatic API documentation
-- **SQLAlchemy** - Python ORM for database operations
-- **yahooquery** - Yahoo Finance API integration 
+- **FastAPI**
+- **SQLAlchemy** 
+- **yahooquery** 
 
 ### Frontend
-- **Jinja2** - Server-side templating
-- **jQuery** - JavaScript library for DOM manipulation and AJAX
-- **Semantic UI** - CSS framework for responsive design
+- **Jinja2** 
+- **jQuery** 
+- **Semantic UI** 
 
 ### Database
 - **SQLite** 
