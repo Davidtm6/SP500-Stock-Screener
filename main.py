@@ -8,13 +8,12 @@ Features:
 - Real-time stock data fetching from Yahoo Finance
 - Advanced filtering by financial metrics
 - Background data synchronization
-- SQLAlchemy ORM with PostgreSQL/SQLite support
+- SQLAlchemy ORM with SQLite support
 
 Dependencies:
 - FastAPI: Web framework and API documentation
 - SQLAlchemy: ORM and database abstraction
 - yahooquery: Yahoo Finance API client
-- Pydantic: Data validation and serialization
 """
 import models 
 from yahooquery import Ticker
