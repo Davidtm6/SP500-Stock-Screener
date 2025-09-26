@@ -103,7 +103,7 @@ Use the filter form to screen stocks:
 ## Project Structure
 
 ```
-stock-portfolio-manager/
+SP500-Stock-Screener/
 │
 ├── main.py              # FastAPI application and routes
 ├── models.py            # SQLAlchemy database models
@@ -113,8 +113,6 @@ stock-portfolio-manager/
 ├── templates/
 │   ├── layout.html      # Base HTML template
 │   └── home.html        # Main dashboard template
-│
-└── static/             # CSS, JS, images (if any)
 ```
 
 ## Future Enhancements
