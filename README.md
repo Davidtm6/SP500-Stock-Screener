@@ -111,8 +111,8 @@ SP500-Stock-Screener/
 ├── requirements.txt     # Python dependencies
 │
 ├── templates/
-│   ├── layout.html      # Base HTML template
-│   └── home.html        # Main dashboard template
+    ├── layout.html      # Base HTML template
+    └── home.html        # Main dashboard template
 ```
 
 ## Future Enhancements
