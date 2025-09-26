@@ -117,30 +117,10 @@ stock-portfolio-manager/
 └── static/             # CSS, JS, images (if any)
 ```
 
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
 ## Future Enhancements
 
-- [ ] User authentication and multiple portfolios
-- [ ] Stock performance charts and analytics
-- [ ] Email alerts for price movements
+- [ ] Multiple portfolios
+- [ ] Stock performance charts
+- [ ] Alerts for price movements
 - [ ] Export portfolio data to CSV/Excel
-- [ ] Mobile app companion
-- [ ] Advanced technical indicators
-- [ ] Portfolio performance tracking
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- [Yahoo Finance](https://finance.yahoo.com/) for providing financial data
-- [FastAPI](https://fastapi.tiangolo.com/) for the excellent web framework
-- [Semantic UI](https://semantic-ui.com/) for the clean UI components
+- [ ] Additional Metrics (YoY Growth, technical indicators, ect...)
